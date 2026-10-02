@@ -10,7 +10,7 @@ Um sistema aberto que prevê as semanas de maior risco de dengue em Olímpia, or
 - Parceira do 1º semestre: escola de Olímpia, com site da campanha contra criadouros
 - Primeiro marco: banner na feira de tecnologia da Fatec, 29/10/2026
 
-Repositório: [projeto-extensao-dsm](https://github.com/2RTekSolutions/projeto-extensao-dsm) · Quadro: [GitHub Projects](https://github.com/orgs/2RTekSolutions/projects/1)
+Repositório: [vigilancia-dengue](https://github.com/2RTekSolutions/vigilancia-dengue) · Quadro: [GitHub Projects](https://github.com/orgs/2RTekSolutions/projects/1)
 
 ## Equipe
 
